@@ -1,9 +1,20 @@
-# grade_calculator
+# Grade Calculator
 
-In this project, we will see the python code of a grade calculation for final adjusted student grades.
+We give a python code of a grade calculation for final adjusted student grades.
 
-To execute the program, a python 3.x editor and a text file of a list of grade result for each student are required.
-In the list each student should have 3 different grades so that take the weighted average of the final grade for all of them.
+## Project Description
 
-Onece we run the code a new text file as "final_adjusted_grades" will be created at the same file where you keep the file and 
-the gradebook. final_adjusted_grades.txt is the list of the grades.
+In this projrct, we randomly enter 26 students (from Studdent_A to Student_Z) twi midterms and one final exams results. Next, we calculate the weighted average results of each student and then we assigned the corresponding final adjusted grade for all of them. Onece we run the code a new text file as "final_adjusted_grades" will be created at the same file where you keep the main coding file and the gradebook file. final_adjusted_grades.txt is the list of the output grades.
+
+### Files
+
+Grade_Calculator.ipynb: This is the main file where we contribute our work for the project.
+
+gradebook.txt: This text file includes all grades of the students form all three exams.
+
+final_adjusted_grades.txt: This text file has been generated once we run the code as the list of final adjusted grsades.
+
+## Execution
+
+To execute the program, you need to have Python 3.x and an editor. If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.X installer and not the Python 2.7 installer.
+
